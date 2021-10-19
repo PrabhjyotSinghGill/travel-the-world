@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/travel-the-world/static/css/main.ccf6eb84.chunk.css",
-    "main.js": "/travel-the-world/static/js/main.70877bfb.chunk.js",
-    "main.js.map": "/travel-the-world/static/js/main.70877bfb.chunk.js.map",
+    "main.js": "/travel-the-world/static/js/main.8b3f178e.chunk.js",
+    "main.js.map": "/travel-the-world/static/js/main.8b3f178e.chunk.js.map",
     "runtime-main.js": "/travel-the-world/static/js/runtime-main.e0239a18.js",
     "runtime-main.js.map": "/travel-the-world/static/js/runtime-main.e0239a18.js.map",
     "static/js/2.870e6c4e.chunk.js": "/travel-the-world/static/js/2.870e6c4e.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.e0239a18.js",
     "static/js/2.870e6c4e.chunk.js",
     "static/css/main.ccf6eb84.chunk.css",
-    "static/js/main.70877bfb.chunk.js"
+    "static/js/main.8b3f178e.chunk.js"
   ]
 }
